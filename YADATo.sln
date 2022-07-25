@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YADAToUT", "YADAToUT\YADAToUT.csproj", "{68B6236C-E910-4747-901B-4F99016C5398}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YADATo.DAO", "YADATo.DAO\YADATo.DAO.csproj", "{54DB8592-6913-4C6C-AC5D-EDDD4F468320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YADATo.DAO.Interfaces", "YADATo.DAO.Interfaces\YADATo.DAO.Interfaces.csproj", "{AA2B67E9-D4CF-45E9-AAA9-F3DB668F5925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{68B6236C-E910-4747-901B-4F99016C5398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B6236C-E910-4747-901B-4F99016C5398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68B6236C-E910-4747-901B-4F99016C5398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DB8592-6913-4C6C-AC5D-EDDD4F468320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DB8592-6913-4C6C-AC5D-EDDD4F468320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DB8592-6913-4C6C-AC5D-EDDD4F468320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DB8592-6913-4C6C-AC5D-EDDD4F468320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2B67E9-D4CF-45E9-AAA9-F3DB668F5925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2B67E9-D4CF-45E9-AAA9-F3DB668F5925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2B67E9-D4CF-45E9-AAA9-F3DB668F5925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2B67E9-D4CF-45E9-AAA9-F3DB668F5925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
